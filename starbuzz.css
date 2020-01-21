@@ -27,7 +27,7 @@ span {
     line-height: 1.9em;
     font-style: italic;
     font-family: Georgia, "Times New Roman", serif;
-    color: #44444444;
+    color: black;
     border-color: black;
     border-width: 2px;
     border-style: solid;
@@ -41,9 +41,4 @@ span {
     width: 200px;
     height: 200px;
     padding: 10px;
-}
-
-.parent-container {
-  margin: auto;
-
-}
+  }
